@@ -1,0 +1,21 @@
+/* Fonts as files */
+@font-face {
+	font-family: 'MyFontFamily';
+	src: url('myfont-webfont.eot?') format('eot'), 
+	     url('myfont-webfont.woff') format('woff'), 
+	     url('myfont-webfont.ttf')  format('truetype'),
+	     url('myfont-webfont.svg#svgFontName') format('svg');
+}
+	
+/* Fonts as data uris */
+@font-face {
+	font-family: 'MyFontFamily';
+	src: url('myfont-webfont.eot?') format('embedded-opentype');
+}
+	
+@font-face {
+	font-family: 'MyFontFamily';
+	     url(data:font/truetype;charset=utf-8;base64,BASE64_ENCODED_DATA_HERE)  format('truetype'),
+	     url(data:font/woff;charset=utf-8;base64,BASE64_ENCODED_DATA_HERE)  format('woff'),
+	     url('myfont-webfont.svg#svgFontName') format('svg');
+}
