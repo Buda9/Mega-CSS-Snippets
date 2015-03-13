@@ -1,0 +1,9 @@
+.text_shadow {
+-webkit-text-shadow:0px 0px 10px #333; /* for chrome */
+-text-shadow:0px 0px 10px #333; /* for all browser*/
+text-shadow:0px 0px 10px #333; /* same as above*/
+-moz-text-shadow:0px 0px 10px #333; /* for firefox */
+-o-text-shadow:0px 0px 10px #333; /* for opera */
+-ms-text-shadow:0px 0px 10px #333; /* for ie 9+ */
+-khtml-text-shadow:0px 0px 10px #333; /* for gecko based browser*/
+}

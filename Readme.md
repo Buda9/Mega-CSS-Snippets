@@ -10,4 +10,4 @@ Quick navigation:
 - [CSS Transform - Rotate (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/CSS%20Transform%20-%20Rotate%20(crossbrowser)/transform_rotate.css)
 - [Linear gradient (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Linear%20gradient%20(crossbrowser)/linear_gradient.css)
 - [Triangular List Bullets](https://github.com/Buda9/CSS-Snippets/blob/master/Triangular%20List%20Bullets/triangular_list_bullets.css)
-- TBA
+- [Text shadow (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Text%20shadow%20(crossbrowser)/text_shadow.css)
