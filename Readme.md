@@ -1,5 +1,5 @@
 # CSS-Snippets
-Personal mega collection of random and best CSS snippets.
+Mega collection of random and best CSS snippets.
 
 Quick navigation:
 - [Background image full width](https://github.com/Buda9/CSS-Snippets/blob/master/Background%20image%20full%20width/bg%20img%20full%20width.css)
@@ -15,3 +15,4 @@ Quick navigation:
 - [Show image - hide text](https://github.com/Buda9/CSS-Snippets/blob/master/Show%20image%20-%20hide%20text/Image%20replacement.css)
 - [Top shadow (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Top%20shadow%20(crossbrowser)/top_shadow.css)
 - [Nice Blockquote](https://github.com/Buda9/CSS-Snippets/blob/master/Nice%20Blockquote/nice_blockquote.css)
+- [Remove Margins for First and Last Elements](https://github.com/Buda9/CSS-Snippets/blob/master/Remove%20Margins%20for%20First%20and%20Last%20Elements/remove%20margins.css)
