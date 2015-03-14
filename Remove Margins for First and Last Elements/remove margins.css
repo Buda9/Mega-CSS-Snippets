@@ -1,0 +1,5 @@
+* > :first-child { margin-top: 0 !important; margin-left: 0 !important; }
+* > :last-child { margin-bottom: 0 !important; margin-right: 0 !important; }
+
+/* OR for every third element */
+* > :nth-child(3n+3) { margin-right: 0; }
