@@ -13,3 +13,4 @@ Quick navigation:
 - [Text shadow (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Text%20shadow%20(crossbrowser)/text_shadow.css)
 - [Transform rotate (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Transform%20rotate%20(crossbrowser)/transform_rotate.css)
 - [Show image - hide text](https://github.com/Buda9/CSS-Snippets/blob/master/Show%20image%20-%20hide%20text/Image%20replacement.css)
+- [Top shadow (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Top%20shadow%20(crossbrowser)/top_shadow.css)
