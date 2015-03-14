@@ -12,4 +12,4 @@ Quick navigation:
 - [Triangular List Bullets](https://github.com/Buda9/CSS-Snippets/blob/master/Triangular%20List%20Bullets/triangular_list_bullets.css)
 - [Text shadow (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Text%20shadow%20(crossbrowser)/text_shadow.css)
 - [Transform rotate (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Transform%20rotate%20(crossbrowser)/transform_rotate.css)
-- TBA
+- [Show image - hide text](https://github.com/Buda9/CSS-Snippets/blob/master/Show%20image%20-%20hide%20text/Image%20replacement.css)
