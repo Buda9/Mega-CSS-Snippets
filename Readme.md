@@ -17,3 +17,4 @@ Quick navigation:
 - [Nice Blockquote](https://github.com/Buda9/CSS-Snippets/blob/master/Nice%20Blockquote/nice_blockquote.css)
 - [Remove Margins for First and Last Elements](https://github.com/Buda9/CSS-Snippets/blob/master/Remove%20Margins%20for%20First%20and%20Last%20Elements/remove%20margins.css)
 - [Media print link URL](https://github.com/Buda9/CSS-Snippets/blob/master/Media%20print%20link%20URL/print.css)
+- [Media print starting template](https://github.com/Buda9/CSS-Snippets/blob/master/Media%20print%20starting%20template/media%20print.css)
