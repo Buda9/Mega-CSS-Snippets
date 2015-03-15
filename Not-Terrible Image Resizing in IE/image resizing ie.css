@@ -1,0 +1,5 @@
+img {
+       -ms-interpolation-mode: bicubic;
+}
+
+/* If you scale down an image with width and/or height attributes, it's going to look terrible in IE unless you use this. */
