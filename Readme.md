@@ -18,3 +18,4 @@ Quick navigation:
 - [Remove Margins for First and Last Elements](https://github.com/Buda9/CSS-Snippets/blob/master/Remove%20Margins%20for%20First%20and%20Last%20Elements/remove%20margins.css)
 - [Media print link URL](https://github.com/Buda9/CSS-Snippets/blob/master/Media%20print%20link%20URL/print.css)
 - [Media print starting template](https://github.com/Buda9/CSS-Snippets/blob/master/Media%20print%20starting%20template/media%20print.css)
+- [Not-Terrible Image Resizing in IE](https://github.com/Buda9/CSS-Snippets/blob/master/Not-Terrible%20Image%20Resizing%20in%20IE/image%20resizing%20ie.css)
