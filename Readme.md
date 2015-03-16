@@ -22,3 +22,4 @@ Quick navigation:
 - [Pre Text Wrap (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Pre%20Text%20Wrap%20(crossbrowser)/pre_text_wrap.css)
 - [Glowing Blue Input Highlights (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Glowing%20Blue%20Input%20Highlights%20(crossbrowser)/glowing_input.css)
 - [CSS Triangles](https://github.com/Buda9/CSS-Snippets/blob/master/CSS%20Triangles/css_triangles.css)
+- [Text Selection Color (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Text%20Selection%20Color%20(crossbrowser)/text_selection_color.css)
