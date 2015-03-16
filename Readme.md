@@ -19,3 +19,4 @@ Quick navigation:
 - [Media print link URL](https://github.com/Buda9/CSS-Snippets/blob/master/Media%20print%20link%20URL/print.css)
 - [Media print starting template](https://github.com/Buda9/CSS-Snippets/blob/master/Media%20print%20starting%20template/media%20print.css)
 - [Not-Terrible Image Resizing in IE](https://github.com/Buda9/CSS-Snippets/blob/master/Not-Terrible%20Image%20Resizing%20in%20IE/image%20resizing%20ie.css)
+- [Pre Text Wrap (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Pre%20Text%20Wrap%20(crossbrowser)/pre_text_wrap.css)
