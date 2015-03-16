@@ -21,3 +21,4 @@ Quick navigation:
 - [Not-Terrible Image Resizing in IE](https://github.com/Buda9/CSS-Snippets/blob/master/Not-Terrible%20Image%20Resizing%20in%20IE/image%20resizing%20ie.css)
 - [Pre Text Wrap (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Pre%20Text%20Wrap%20(crossbrowser)/pre_text_wrap.css)
 - [Glowing Blue Input Highlights (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Glowing%20Blue%20Input%20Highlights%20(crossbrowser)/glowing_input.css)
+- [CSS Triangles](https://github.com/Buda9/CSS-Snippets/blob/master/CSS%20Triangles/css_triangles.css)
