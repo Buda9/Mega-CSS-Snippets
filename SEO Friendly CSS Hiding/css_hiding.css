@@ -1,0 +1,7 @@
+#content {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+/* Removes an item from the page, without affecting page flow or causing scrollbars. Much better than display: none; or even visibility: hidden; */
