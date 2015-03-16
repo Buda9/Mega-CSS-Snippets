@@ -23,3 +23,4 @@ Quick navigation:
 - [Glowing Blue Input Highlights (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Glowing%20Blue%20Input%20Highlights%20(crossbrowser)/glowing_input.css)
 - [CSS Triangles](https://github.com/Buda9/CSS-Snippets/blob/master/CSS%20Triangles/css_triangles.css)
 - [Text Selection Color (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Text%20Selection%20Color%20(crossbrowser)/text_selection_color.css)
+- [Better Helvetica](https://github.com/Buda9/CSS-Snippets/blob/master/Better%20Helvetica/Better_Helvetica.css)
