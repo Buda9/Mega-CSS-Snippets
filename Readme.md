@@ -25,3 +25,4 @@ Quick navigation:
 - [Text Selection Color (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Text%20Selection%20Color%20(crossbrowser)/text_selection_color.css)
 - [Better Helvetica](https://github.com/Buda9/CSS-Snippets/blob/master/Better%20Helvetica/Better_Helvetica.css)
 - [SEO Friendly CSS Hiding](https://github.com/Buda9/CSS-Snippets/blob/master/SEO%20Friendly%20CSS%20Hiding/css_hiding.css)
+- [Blueprint pattern in CSS (crossbrowser)](https://github.com/Buda9/CSS-Snippets/blob/master/Blueprint%20pattern%20in%20CSS%20(crossbrowser)/blueprint-pattern.css)
