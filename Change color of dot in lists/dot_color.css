@@ -1,0 +1,12 @@
+ul li {
+    color: black;
+    list-style-type: none;
+}
+
+ul li:before {
+    color: red;
+    float: left;
+    margin: 0 0 0 -0.89em;
+    font-size: 2em;
+    content: '\2022';
+}
