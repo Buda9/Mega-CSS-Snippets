@@ -1,0 +1,20 @@
+html, body {
+-webkit-tap-highlight-color:rgba(0,0,0,0);
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+-webkit-text-size-adjust: none;
+-moz-osx-font-smoothing: grayscale;
+-webkit-text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+text-rendering: optimizeLegibility !important;
+font-smooth:always;
+-ms-text-size-adjust:100%;
+-webkit-text-size-adjust:100%
+}
+@media
+	only screen and (-webkit-min-device-pixel-ratio: 1.25),
+	only screen and ( min-device-pixel-ratio: 1.25),
+	only screen and ( min-resolution: 200dpi),
+	only screen and ( min-resolution: 1.25dppx) {
+		-webkit-font-smoothing: subpixel-antialiased;
+  }
