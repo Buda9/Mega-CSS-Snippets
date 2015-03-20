@@ -1,0 +1,7 @@
+p {
+  -webkit-writing-mode: horizontal-tb | rl-tb| vertical-lr | vertical-rl | bt-rl | bt-lr | lr-bt | rl-bt;
+  -epub-writing-mode: horizontal-tb | rl-tb| vertical-lr | vertical-rl | bt-rl | bt-lr | lr-bt | rl-bt;
+  -moz-writing-mode: horizontal-tb | rl-tb| vertical-lr | vertical-rl | bt-rl | bt-lr | lr-bt | rl-bt;
+  -ms-writing-mode: lr-tb | rl-tb | tb-rl | bt-rl | tb-lr | bt-lr | lr-bt | rl-bt | lr | rl | tb;
+  writing-mode: horizontal-tb | rl-tb| vertical-lr | vertical-rl | bt-rl | bt-lr | lr-bt | rl-bt;
+}
