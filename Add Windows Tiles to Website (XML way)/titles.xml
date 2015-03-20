@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="images/tiles/acme-tile-small.png"/>
+            <square150x150logo src="images/tiles/acme-tile-medium.png"/>
+            <wide310x150logo src="images/tiles/acme-tile-wide.png"/>
+            <square310x310logo src="images/tiles/acme-tile-large.png"/>
+            <TileColor>#83d3c9</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
+
+<!-- Usage: <meta name="msapplication-config" content="tile.xml" /> -->
