@@ -1,0 +1,9 @@
+div.doubleborder{
+-webkit-border-radius: 80px; 
+-moz-border-radius: 80px;
+border-radius: 80px;
+
+-webkit-box-shadow: 0 0 0px 5px rgba(227,230,234,1);
+-moz-box-shadow: 0 0 0px 5px rgba(227,230,234,1);
+box-shadow: 0 0 0px 5px rgba(227,230,234,1);
+}
