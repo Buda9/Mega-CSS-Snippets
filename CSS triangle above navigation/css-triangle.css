@@ -1,0 +1,11 @@
+.navbar-default .navbar-nav > .dropdown.open > a:after {
+content: "";
+width: 0;
+height: 0;
+border-bottom: 10px solid #2a3b4d;
+border-left: 10px solid transparent;
+border-right: 10px solid transparent;
+position: absolute;
+left: 25px;
+bottom: -1px;
+}
