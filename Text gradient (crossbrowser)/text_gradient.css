@@ -1,0 +1,13 @@
+h4{
+  -webkit-text-fill-color: transparent;
+  -ms-text-fill-color: transparent;
+  background: #6b13d3;
+  background: -moz-linear-gradient(45deg, #6b13d3 0, #7a25e1 25%, #4962dc 60%);
+  background: -webkit-linear-gradient(45deg, #6b13d3 0, #7a25e1 25%, #4962dc 60%);
+  background: -ms-linear-gradient(45deg, #6b13d3 0, #7a25e1 25%, #4962dc 60%);
+  background: linear-gradient(45deg, #6b13d3 0, #7a25e1 25%, #4962dc 60%);
+  -webkit-background-clip: text;
+  -mz-background-clip: text;
+  -ms-background-clip: text;
+  background-clip: text;
+}
