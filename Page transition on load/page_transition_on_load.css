@@ -1,0 +1,18 @@
+.reveal{display:block;-webkit-animation:reveal .8s ease;-moz-animation:reveal .8s ease;animation:reveal .8s ease}
+
+@-webkit-keyframes reveal {
+0%{top:-5%;opacity:0}
+100%{top:0;opacity:1}
+}
+@-moz-keyframes reveal {
+0%{top:-5%;opacity:0}
+100%{top:0;opacity:1}
+}
+@-o-keyframes reveal {
+0%{top:-5%;opacity:0}
+100%{top:0;opacity:1}
+}
+@keyframes reveal {
+0%{top:-5%;opacity:0}
+100%{top:0;opacity:1}
+}
