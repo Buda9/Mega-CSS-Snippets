@@ -29,4 +29,4 @@ Quick navigation:
 - [Change color of dot in lists](https://github.com/Buda9/CSS-Snippets/blob/master/Change%20color%20of%20dot%20in%20lists/dot_color.css)
 - [Text gradient (crossbrowser)](https://github.com/Buda9/Mega-CSS-Snippets/blob/master/Text%20gradient%20(crossbrowser)/text_gradient.css)
 - [Prevent an element from being selected and copied using CSS](https://github.com/Buda9/Mega-CSS-Snippets/blob/master/Prevent%20an%20element%20from%20being%20selected%20and%20copied%20using%20CSS/Prevent%20an%20element%20from%20being%20selected%20and%20copied%20using%20CSS.html)
-- TBA
+- TBA 
